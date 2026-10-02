@@ -5,8 +5,6 @@ The project combines claims, policyholder, and third-party data to enable early 
 
 ----
 
-# Early Prediction of Motor Insurance Claim Cost Using FNOL Data
-
 ## Project Overview
 
 This project uses machine learning to predict the ultimate cost of motor insurance claims at the First Notice of Loss (FNOL) stage.
